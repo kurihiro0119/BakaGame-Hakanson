@@ -73,6 +73,12 @@
     <Compile Include="Assets/GameSystems/scripts/Launcher.cs" />
     <Compile Include="Assets/GameSystems/scripts/PlayerNameInputField.cs" />
     <Compile Include="Assets/GameSystems/scripts/Operation/Player/PlayerManager.cs" />
+    <Compile Include="Assets/Tutorial/Script/SampleScene.cs" />
+    <Compile Include="Assets/Tutorial/Script/AvatarNameDisplay.cs" />
+    <Compile Include="Assets/Tutorial/Script/AvatarController.cs" />
+    <Compile Include="Assets/Tutorial/Script/SampleTransformView.cs" />
+    <Compile Include="Assets/Tutorial/Script/Bullet/Bullet.cs" />
+    <Compile Include="Assets/Tutorial/Script/Bullet/AvatarFireBullet.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml" />
